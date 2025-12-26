@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Kaustubh 👋
 
 I am a Cloud Computing student currently learning DevOps and Cloud technologies.  
